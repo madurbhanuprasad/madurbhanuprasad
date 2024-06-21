@@ -132,7 +132,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
 - Contribution 2: [🔗 Link](link)
 
 ## 📬 Contact Me
-- Email: [✉️ Your Email Address](mailto:MADURBHANUPRASAD092GMAIL.COM)
+- Email: [✉️ MADURBHANUPRASAD)9@GMAIL.COM](mailto:MADURBHANUPRASAD092GMAIL.COM)
 - LinkedIn: [🔗 Your LinkedIn Profile](https://www.linkedin.com/in/bhanu-prasad-a158b22b1/)
 - Twitter: [🔗 Your Twitter Profile](https://twitter.com/yourhandle)
 
