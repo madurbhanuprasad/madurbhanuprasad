@@ -100,7 +100,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
 
 ## 🚀 Projects
 ### Project 1
-- **Description:** Brief description of the project
+- **Description:** Employee Attrition Prediction using AdaBoost Classifier (HR Analytics)
 - **Link:** [🔗 Project Link](link)
 - **Technologies Used:** List of technologies or languages used
 - **Demo Video:** [🎥 YouTube Demo](video_link)
