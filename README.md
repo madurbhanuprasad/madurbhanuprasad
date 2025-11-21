@@ -74,7 +74,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
   <tr>
     <td>Project 1</td>
     <td>Employee Attrition Prediction using AdaBoost Classifier (HR Analytics)</td>
-    <td><a href="link">🔗(https://github.com/madurbhanuprasad/-machine-learning/blob/main/Adaboost-Classifier-Updated.ipynb)</a></td>
+    <td><a href="link">(ttps://github.com/madurbhanuprasad/-machine-learning/blob/main/Adaboost-Classifier-Updated.ipynb</a></td>
     <td>List of technologies or languages used</td>
     <td><a href="video_link">🎥 YouTube Demo</a></td>
     <td><a href="report_link">📄 PDF Report</a></td>
