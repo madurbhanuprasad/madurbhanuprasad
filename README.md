@@ -82,7 +82,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
   <tr>
     <td>Project 2</td>
     <td>Brief description of the project</td>
-    <td><a href="link">🔗 Project Link</a></td>
+    <td><a href="link">https://github.com/madurbhanuprasad/-machine-learning/blob/main/Adaboost-Classifier-Updated.ipynb</a></td>
     <td>List of technologies or languages used</td>
     <td><a href="video_link">🎥 YouTube Demo</a></td>
     <td><a href="report_link">📄 PDF Report</a></td>
