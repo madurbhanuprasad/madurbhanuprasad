@@ -73,7 +73,7 @@ Brief introduction about yourself, your interests, and your passion for coding.
   </tr>
   <tr>
     <td>Project 1</td>
-    <td>Brief description of the project</td>
+    <td>Employee Attrition Prediction using AdaBoost Classifier (HR Analytics)</td>
     <td><a href="link">🔗 Project Link</a></td>
     <td>List of technologies or languages used</td>
     <td><a href="video_link">🎥 YouTube Demo</a></td>
